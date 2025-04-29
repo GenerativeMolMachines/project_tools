@@ -3,7 +3,7 @@ Statisctics and visualisation tools fro your project
 
 ## Content
 
-[**statistics_for_your_project.ipynb**](https://github.com/GenerativeMolMachines/project_tools/blob/main/shap%2Bclust.ipynb):
+[**statistics_for_your_project.ipynb**](https://github.com/GenerativeMolMachines/project_tools/blob/main/statistics_for_your_project.ipynb):
  - Pearson correlation marix
  - Violin plot - распеределения в виде скрипки
  - Box plot
